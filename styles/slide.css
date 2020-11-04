@@ -1,0 +1,14 @@
+:host {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    padding: 15px 20px;
+    width: 256px;
+    height: 144px;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
